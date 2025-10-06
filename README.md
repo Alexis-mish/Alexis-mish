@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask, Ciber security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Alexis-mish](https://github.com/Alexis-mish)
+- 👨‍💻 All of my projects are available at [https://github.com/Alexis-mish](https://github.com/Alexis-mish?tab=repositories)
 
 - 💬 Ask me about **Python, Flutter, Html and Css**
 
