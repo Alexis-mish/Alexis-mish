@@ -1,4 +1,6 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FwcHl1bXBuN3JibXJzMmx2dTVrMDQxMDJpemFmMWR0dnB6ZG5saSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0WCl3fm5AbtFxyoNBw/giphy.gif"/>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FwcHl1bXBuN3JibXJzMmx2dTVrMDQxMDJpemFmMWR0dnB6ZG5saSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0WCl3fm5AbtFxyoNBw/giphy.gif"/>
+</div>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 - 🔭 I’m currently working on [History mini](https://github.com/Alexis-mish/history_mini)
